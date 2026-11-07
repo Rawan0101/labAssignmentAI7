@@ -1,0 +1,35 @@
+9FS2 Rawan Alqattan
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+coffee
+milk
+chocolate
+apple
+juice
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+enter the item you want to add it
+The item has been added
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+coffee
+milk
+chocolate
+apple
+juice
+bread
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
